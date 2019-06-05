@@ -21,7 +21,7 @@ sequenceDiagram
 
 ## Duplicate Github template as Diagram template 
 
-  First of all, open the directory containing the templates used when HTML export is wanted : Edit -> Open Config Directory.
+  First of all, open the directory containing the templates used when HTML export is wanted : **Edit -> Open Config Directory**.
   
   Step into the **template** directory and duplicate the **github** directory and rename the new one as **diagram**.
   
